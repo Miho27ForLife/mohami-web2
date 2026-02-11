@@ -1,1 +1,9 @@
 @import "tailwindcss";
+:root{
+  --brand-primary: #b58b2a;   /* adjust */
+  --brand-accent:  #f5c542;   /* adjust */
+  --text-navbar:   #ffffff;
+  --text-on-accent:#3E4450;
+  --navbar-bg: #252830;
+  --topbar-bg: #252830;
+}
